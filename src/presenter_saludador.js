@@ -7,8 +7,8 @@ const div = document.querySelector("#resultado-div");
 
 
 
-//const form2 = document.querySelector("#genero_form");
-//const div2 = document.querySelector("#resultado-divGen");
+const form2 = document.querySelector("#genero_form");
+const div2 = document.querySelector("#resultado-divGen");
 
 
 
